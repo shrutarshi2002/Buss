@@ -1,0 +1,30 @@
+body{
+  background-color: #EAF6F6;
+}
+img{
+  height: 200px;
+  background-color: grey;
+
+}
+hr{
+  background-color: EAF6F6;
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: grey;
+  width: 10%;
+}
+h1{
+  text-align: center;
+
+
+
+}
+p{
+  text-align: center;
+}
+h4{
+  text-align: center;
+
+
+
+}
